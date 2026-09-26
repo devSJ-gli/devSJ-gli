@@ -1,7 +1,7 @@
 # 👋 Hi, I'm SJ  
 
 Welcome to my GitHub profile! 🚀  
-I’m an **Aspiring AI & Data Engineer** with a background in Information Technology, currently working as an Associate Software Engineer at Accenture.  
+I’m an **Aspiring Data Engineer** with a background in Information Technology, currently working as an Associate Software Engineer at Accenture.  
 
 ---
 
