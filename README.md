@@ -31,4 +31,4 @@ I’m an **Aspiring Data Engineer** with a background in Information Technology,
 
 ## 📫 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/suraj-d-2a3029266/) 
-- 📧 Email: surajdev2704@gmail.com 
+- 📧 Email: devulapallisuraj@gmail.com 
